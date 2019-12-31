@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\derrick\\Desktop\\sample-projects-master\\sample-projects-master\\javacv-android-recognize\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\derrick\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\5bc657394191e0e94673f26c703c4ea7\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

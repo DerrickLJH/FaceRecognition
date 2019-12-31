@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5563f3d753e3a37868ffb77cf6d0be6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9f4f735cfb9d68451c24cccf7ca70dc8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\26748899a8c3f7d04fffde77fd5a2ce1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0a1c30cad203d2ee64b7d9bc096d1e1c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\cbaceaa913a6256b8267169b13ff42d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7d41147bf8ea8949102790b8ba39b1e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fe9515411adcdc5043a9fd847246d058\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2ba92232012c36ff12075efc32c818a5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ff3943dd15531c46bb31f22e8ff70617\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:2:5-60
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#ANDROID.PERMISSION.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:7:22-65
+uses-feature#android.hardware.camera
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:10:19-67
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:11:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:12:19-73
+application
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:14:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9f4f735cfb9d68451c24cccf7ca70dc8\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9f4f735cfb9d68451c24cccf7ca70dc8\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\26748899a8c3f7d04fffde77fd5a2ce1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\26748899a8c3f7d04fffde77fd5a2ce1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0a1c30cad203d2ee64b7d9bc096d1e1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0a1c30cad203d2ee64b7d9bc096d1e1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\cbaceaa913a6256b8267169b13ff42d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\cbaceaa913a6256b8267169b13ff42d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7d41147bf8ea8949102790b8ba39b1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7d41147bf8ea8949102790b8ba39b1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fe9515411adcdc5043a9fd847246d058\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fe9515411adcdc5043a9fd847246d058\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2ba92232012c36ff12075efc32c818a5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2ba92232012c36ff12075efc32c818a5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ff3943dd15531c46bb31f22e8ff70617\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ff3943dd15531c46bb31f22e8ff70617\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:19:9-54
+	android:largeHeap
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:18:9-33
+	android:icon
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:21:9-68
+activity#org.bytedeco.javacv.android.recognize.example.MainActivity
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:28:27-74
+activity#org.bytedeco.javacv.android.recognize.example.OpenCvRecognizeActivity
+ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml:32:13-52
+uses-sdk
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5563f3d753e3a37868ffb77cf6d0be6a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5563f3d753e3a37868ffb77cf6d0be6a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9f4f735cfb9d68451c24cccf7ca70dc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9f4f735cfb9d68451c24cccf7ca70dc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\26748899a8c3f7d04fffde77fd5a2ce1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\26748899a8c3f7d04fffde77fd5a2ce1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0a1c30cad203d2ee64b7d9bc096d1e1c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0a1c30cad203d2ee64b7d9bc096d1e1c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\cbaceaa913a6256b8267169b13ff42d9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\cbaceaa913a6256b8267169b13ff42d9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7d41147bf8ea8949102790b8ba39b1e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7d41147bf8ea8949102790b8ba39b1e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fe9515411adcdc5043a9fd847246d058\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fe9515411adcdc5043a9fd847246d058\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2ba92232012c36ff12075efc32c818a5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2ba92232012c36ff12075efc32c818a5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ff3943dd15531c46bb31f22e8ff70617\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ff3943dd15531c46bb31f22e8ff70617\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\derrick\Desktop\sample-projects-master\sample-projects-master\javacv-android-recognize\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9f4f735cfb9d68451c24cccf7ca70dc8\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9f4f735cfb9d68451c24cccf7ca70dc8\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\26748899a8c3f7d04fffde77fd5a2ce1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\26748899a8c3f7d04fffde77fd5a2ce1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0a1c30cad203d2ee64b7d9bc096d1e1c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0a1c30cad203d2ee64b7d9bc096d1e1c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\cbaceaa913a6256b8267169b13ff42d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\cbaceaa913a6256b8267169b13ff42d9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7d41147bf8ea8949102790b8ba39b1e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c7d41147bf8ea8949102790b8ba39b1e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fe9515411adcdc5043a9fd847246d058\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fe9515411adcdc5043a9fd847246d058\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2ba92232012c36ff12075efc32c818a5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2ba92232012c36ff12075efc32c818a5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ff3943dd15531c46bb31f22e8ff70617\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ff3943dd15531c46bb31f22e8ff70617\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\derrick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5bc657394191e0e94673f26c703c4ea7\AndroidManifest.xml:26:9-47
